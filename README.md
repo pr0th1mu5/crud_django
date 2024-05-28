@@ -154,6 +154,8 @@ $ python manage.py createsuperuser
 
 
 16 - Inicie o servidor novamente com `python manage.py runserver`. Acesse no browser o endereço http://localhost:8000/admin/
+    
+    
     > Perceba que um painel de administração do django lhe será apresentado. Insira suas credenciais criadas lá.
 
 
