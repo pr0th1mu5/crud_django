@@ -11,6 +11,7 @@ Tutorial para aprendizado de construção de um CRUD em django
   <li>Listar suas principais dificuldades</li>
   <li>Relatar sua experiência com o framework Django</li>
   <li>Comentar sobre o que você achou simples e prático de fazer ao construir o crud.</li>
+  <li>Caso não consiga fazer alguma etapa, detalhar o máximo possível o principal problema encontrado que o impediu de prosseguir.</li>
 </ul>
 </strong></p>
 
