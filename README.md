@@ -2,9 +2,22 @@
 Tutorial para aprendizado de construção de um CRUD em django
 
 
-  > Esse tutorial segue a sequência de código do site oficial
+  > Esse tutorial segue a sequência de código do site oficial da documentação Django disponível [Aqui!](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
 
+> [!important]
+> Para fazer essa atividade é importante lembrar que:
+> 
+> `cd`     acessa um diretório no terminal linux;
+> 
+> `cd` ..  volta um diretório no terminal linux;
+> 
+> `touch`  cria um novo documento no terminal linux;
+> 
+> `vim`    é um editor de texto no terminal que você pode utilizar, ou use o vsCode se preferir.
+>
+> `ls -l`  lista todos os arquivos de um diretório no terminal linux.
 
+<hr />
 
 1 - Prepare seu ambiente de desenvolvimento;
 
