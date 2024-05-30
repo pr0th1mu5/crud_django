@@ -2,7 +2,19 @@
 Tutorial para aprendizado de construção de um CRUD em django
 
 
-  > Esse tutorial segue a sequência de código do site oficial da documentação Django disponível [Aqui!](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
+<p>Esse tutorial segue a sequência de código do site oficial da documentação Django disponível [Aqui!](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)</p>
+
+
+<p><strong>Prazo para realização da entrega: 07/06</strong></p>
+<p><strong>Forma de entrega: documentação no github.
+<ul>
+  <li>Listar suas principais dificuldades</li>
+  <li>Relatar sua experiência com o framework Django</li>
+  <li>Comentar sobre o que você achou simples e prático de fazer ao construir o crud.</li>
+</ul>
+</strong></p>
+
+
 
 > [!important]
 > Para fazer essa atividade é importante lembrar que:
